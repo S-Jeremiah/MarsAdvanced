@@ -1,0 +1,14 @@
+﻿{
+  "Profiles": [
+    {
+      "Scenario": "Setting Profile Details",
+      "AvailabilityText": "Part Time",
+      "AvailabilityValue": "0",
+      "HoursText": "More than 30hours a week",
+      "HoursValue": "1",
+      "EarnTargetText": "Between $500 and $1000 per month",
+      "EarnTargetValue": "1",
+      "ExpectedResult": "Success"
+    }
+  ]
+}

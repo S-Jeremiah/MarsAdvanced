@@ -1,0 +1,20 @@
+﻿{
+  "SearchSkill": [
+
+    {
+      "Category": "Software Development",
+      "SubCategory": "Programming",
+      "Title": "Software Developer"
+    },
+    {
+      "Category": "Data Analysis & Business Intelligence",
+      "SubCategory": "ETL Design",
+      "Title": "Data Analyst"
+    },
+    {
+      "Category": "Recruitment",
+      "SubCategory": "Employability",
+      "Title": "Recruiter"
+    }
+  ]
+}

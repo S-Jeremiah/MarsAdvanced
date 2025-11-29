@@ -1,0 +1,31 @@
+﻿{
+  "Skills": [
+
+    {
+      "Scenerio": "Adding Valid Skill",
+      "Skill": "Coding",
+      "SkillLevel": "Expert",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenerio": "Adding Duplicate Skill",
+      "Skill": "Coding",
+      "SkillLevel": "Expert",
+      "ExpectedResult": "Information already Exist"
+    },
+    {
+      "Scenario": "Add Blank Skill",
+      "Skill": "   ",
+      "SkillLevel": "Beginner",
+      "ExpectedResult": "BlankSkill"
+    },
+    {
+      "Scenario": "Add Blank Level",
+      "Skill": "API",
+      "SkillLevel": "   ",
+      "ExpectedResult": "BlankLevel"
+    }
+
+
+  ]
+}

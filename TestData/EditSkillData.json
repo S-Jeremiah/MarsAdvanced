@@ -1,0 +1,28 @@
+﻿{
+  "Skills": [
+    {
+      "Scenario": "EditingSkills",
+      "ExistingSkill": "Coding",
+      "NewSKill": "API",
+      "ExistingLevel": "Beginner",
+      "NewLevel": "Expert",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Editing only Skill",
+      "ExistingSkill": "Automation",
+      "NewSKill": "Performance Testing",
+      "ExistingLevel": "Beginner",
+      "NewLevel": "Beginner",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Editing only Level",
+      "ExistingSkill": "Coding",
+      "NewSKill": "Coding",
+      "ExistingLevel": "Beginner",
+      "NewLevel": "Expert",
+      "ExpectedResult": "Success"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+﻿{
+  "AddSkills": [
+    {
+      "Scenario": "Adding a Skill",
+      "Title": "Automation Engineer",
+      "Description": "I offer comprehensive lessons for beginners. My teaching approach focuses on building a strong foundation in OOPS concept.",
+      "Category": "Test Automation",
+      "SubCategory": "Selenium",
+      "Tags": [ "Selenium", "Basic", "OOPS", "Coding" ],
+      "ServiceType": "1",
+      "LocationType": "0",
+      "TargetDate": "2025-12-22",
+      "SkillTrades": "false",
+      "Credit": "7",
+      "Active": "true",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Adding a Skill",
+      "Title": "Software Developer",
+      "Description": "I offer comprehensive lessons for beginners. My teaching approach focuses on building a strong foundation in OOPS concept.",
+      "Category": "Software Development",
+      "SubCategory": "Programming",
+      "Tags": [ "JAVA", "C#", "python", "Basic", "OOPS", "Coding" ],
+      "ServiceType": "0",
+      "LocationType": "1",
+      "TargetDate": "2025-12-29",
+      "SkillTrades": "false",
+      "Credit": "8",
+      "Active": "true",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Adding a Skill",
+      "Title": "Data Analyst",
+      "Description": "I offer comprehensive lessons for beginners. My teaching approach focuses on building a strong foundation in OOPS concept.",
+      "Category": "Data Analysis & Business Intelligence",
+      "SubCategory": "ETL Design",
+      "Tags": [ "JAVA", "C#", "python", "Basic", "OOPS", "Coding" ],
+      "ServiceType": "0",
+      "LocationType": "1",
+      "TargetDate": "2025-12-15",
+      "SkillTrades": "false",
+      "Credit": "9",
+      "Active": "true",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Adding a Skill",
+      "Title": "Recruiter",
+      "Description": "I offer comprehensive lessons for beginners",
+      "Category": "Recruitment",
+      "SubCategory": "Employability",
+      "Tags": [ "IT Recruitment", "Footfalls", "drive", "Target", "Onboarding" ],
+      "ServiceType": "1",
+      "LocationType": "0",
+      "TargetDate": "2025-12-15",
+      "SkillTrades": "false",
+      "Credit": "10",
+      "Active": "true",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Adding a Skill",
+      "Title": "Data Science Engineer",
+      "Description": "I offer comprehensive lessons for beginners",
+      "Category": "Data Science",
+      "SubCategory": "Python Programming",
+      "Tags": [ "Python", "Programming", "coding" ],
+      "ServiceType": "0",
+      "LocationType": "1",
+      "TargetDate": "2025-12-15",
+      "SkillTrades": "false",
+      "Credit": "10",
+      "Active": "true",
+      "ExpectedResult": "Success"
+    }
+  ]
+}
+

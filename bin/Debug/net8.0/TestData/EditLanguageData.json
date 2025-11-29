@@ -1,0 +1,34 @@
+﻿{
+  "Languages": [
+    {
+
+      "Scenario": "EditingLanguage",
+      "ExistingLanguage": "Tamil",
+      "NewLanguage": "Malayalam",
+      "ExistingLevel": "Fluent",
+      "NewLevel": "Basic",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Editing only Language",
+      "ExistingLanguage": "Hindi",
+      "NewLanguage": "French",
+      "ExistingLevel": "Fluent",
+      "NewLevel": "Fluent",
+      "ExpectedResult": "Success"
+    },
+    {
+
+      "Scenario": "Editing only Level",
+      "ExistingLanguage": "German",
+      "NewLanguage": "German",
+      "ExistingLevel": "Fluent",
+      "NewLevel": "Basic",
+      "ExpectedResult": "Success"
+    }
+
+
+
+
+  ]
+}

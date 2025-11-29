@@ -1,0 +1,17 @@
+﻿{
+  "ShareSkills": [
+    {
+      "Scenario": "Editing a Skill",
+      "ExistingTitle": "Data Science Engineer",
+      "NewTitle": "Engineer 1",
+      "ExistingDescription": "I offer comprehensive lessons for beginners. My teaching approach focuses on building a strong foundation in OOPS concept.",
+      "NewDescription": "My teaching approach focuses on building a strong foundation in OOPS concept.",
+      "ExistingCategory": "Data Science",
+      "NewCategory": "Software Development",
+      "ExistingSubCategory": "Python Programming",
+      "NewSubCategory": "Programming",
+
+      "ExpectedResult": "Success"
+    }
+  ]
+}

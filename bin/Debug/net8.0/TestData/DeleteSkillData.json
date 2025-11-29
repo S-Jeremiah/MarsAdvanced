@@ -1,0 +1,18 @@
+﻿{
+  "Skills": [
+    {
+      "Scenerio": "DeletingSkills",
+      "Skill": "Coding",
+      "Level": "Expert",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenerio": "Deleting level",
+      "Skill": "Automation",
+      "Level": "Beginner",
+      "ExpectedResult": "Success"
+    }
+
+    
+  ]
+}

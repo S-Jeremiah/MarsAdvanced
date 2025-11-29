@@ -1,0 +1,16 @@
+﻿{
+  "Languages": [
+    {
+      "Scenario": "Delete Language entry",
+      "Language": "Malayalam",
+      "Level": "Basic",
+      "ExpectedResult": "Success"
+    },
+    {
+      "Scenario": "Delete Level entry",
+      "Language": "French",
+      "Level": "Fluent",
+      "ExpectedResult": "Success"
+    }
+  ]
+}

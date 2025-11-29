@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\marsadvanced.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:marsadvanced.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\steps\\shareskillsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:steps\\shareskillsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\pages\\shareskillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:pages\\shareskillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\editshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\editshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\tests\\shareskilltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:tests\\shareskilltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\deleteshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\deleteshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\deleteshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\deleteshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\editshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\editshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\steps\\skillsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:steps\\skillsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\steps\\homesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:steps\\homesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\addshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\addshareskill.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\utilities\\screenshothelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:utilities\\screenshothelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\searchskillbycategory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\searchskillbycategory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\addshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\addshareskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\searchskillcategorytestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\searchskillcategorytestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\searchskillbysubcategorytestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\searchskillbysubcategorytestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\searchskillbysubcategory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\searchskillbysubcategory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\skilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\skilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\driver\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:driver\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\deleteskilldata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\deleteskilldata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\editlanguagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\editlanguagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\utilities\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:utilities\\extentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\steps\\languagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:steps\\languagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\deletelanguagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\deletelanguagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\deletelanguagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\deletelanguagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\editlanguagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\editlanguagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\deleteskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\deleteskilltestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\profiledata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\profiledata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\tests\\skilltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:tests\\skilltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\editprofiletestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\editprofiletestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\profiletestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\profiletestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\logintestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\logintestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\skilldata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\skilldata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\model\\languagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:model\\languagetestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\languagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\languagedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|c:\\users\\shalu\\industry connect\\workspace\\marsadvanced\\testdata\\logindata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC6AB0C7-0A32-4AC7-9D1C-7C58B99E7C28}|MarsAdvanced.csproj|solutionrelative:testdata\\logindata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShareSkillPage.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\ShareSkillPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ShareSkillPage.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\ShareSkillPage.cs",
+              "RelativeToolTip": "Pages\\ShareSkillPage.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAqwGsBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:00:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShareSkillSteps.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\ShareSkillSteps.cs",
+              "RelativeDocumentMoniker": "Steps\\ShareSkillSteps.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\ShareSkillSteps.cs",
+              "RelativeToolTip": "Steps\\ShareSkillSteps.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T04:44:18.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShareSkillTest.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\ShareSkillTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ShareSkillTest.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\ShareSkillTest.cs",
+              "RelativeToolTip": "Tests\\ShareSkillTest.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAEwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:09:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditShareSkill.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\EditShareSkill.json",
+              "RelativeDocumentMoniker": "TestData\\EditShareSkill.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\EditShareSkill.json",
+              "RelativeToolTip": "TestData\\EditShareSkill.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T04:59:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarsAdvanced.csproj",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\MarsAdvanced.csproj",
+              "RelativeDocumentMoniker": "MarsAdvanced.csproj",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\MarsAdvanced.csproj",
+              "RelativeToolTip": "MarsAdvanced.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T23:49:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteShareSkill.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteShareSkill.json",
+              "RelativeDocumentMoniker": "TestData\\DeleteShareSkill.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteShareSkill.json",
+              "RelativeToolTip": "TestData\\DeleteShareSkill.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T23:16:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteShareSkillTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteShareSkillTestData.cs",
+              "RelativeDocumentMoniker": "Model\\DeleteShareSkillTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteShareSkillTestData.cs",
+              "RelativeToolTip": "Model\\DeleteShareSkillTestData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:18:55.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditShareSkillTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditShareSkillTestData.cs",
+              "RelativeDocumentMoniker": "Model\\EditShareSkillTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditShareSkillTestData.cs",
+              "RelativeToolTip": "Model\\EditShareSkillTestData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T05:03:09.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:52:36.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LanguagePage.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\LanguagePage.cs",
+              "RelativeDocumentMoniker": "Pages\\LanguagePage.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\LanguagePage.cs",
+              "RelativeToolTip": "Pages\\LanguagePage.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwGIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:53:46.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkillSteps.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\SkillSteps.cs",
+              "RelativeDocumentMoniker": "Steps\\SkillSteps.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\SkillSteps.cs",
+              "RelativeToolTip": "Steps\\SkillSteps.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:43:53.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkillPage.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\SkillPage.cs",
+              "RelativeDocumentMoniker": "Pages\\SkillPage.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\SkillPage.cs",
+              "RelativeToolTip": "Pages\\SkillPage.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:21:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeSteps.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\HomeSteps.cs",
+              "RelativeDocumentMoniker": "Steps\\HomeSteps.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\HomeSteps.cs",
+              "RelativeToolTip": "Steps\\HomeSteps.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:24:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Pages\\HomePage.cs",
+              "RelativeToolTip": "Pages\\HomePage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:49:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeTest.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\HomeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\HomeTest.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\HomeTest.cs",
+              "RelativeToolTip": "Tests\\HomeTest.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:36:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddShareSkill.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\AddShareSkill.json",
+              "RelativeDocumentMoniker": "TestData\\AddShareSkill.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\AddShareSkill.json",
+              "RelativeToolTip": "TestData\\AddShareSkill.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T22:42:45.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScreenshotHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\ScreenshotHelpers.cs",
+              "RelativeDocumentMoniker": "Utilities\\ScreenshotHelpers.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\ScreenshotHelpers.cs",
+              "RelativeToolTip": "Utilities\\ScreenshotHelpers.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T00:04:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchSkillByCategory.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SearchSkillByCategory.json",
+              "RelativeDocumentMoniker": "TestData\\SearchSkillByCategory.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SearchSkillByCategory.json",
+              "RelativeToolTip": "TestData\\SearchSkillByCategory.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T09:06:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddShareSkillTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\AddShareSkillTestData.cs",
+              "RelativeDocumentMoniker": "Model\\AddShareSkillTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\AddShareSkillTestData.cs",
+              "RelativeToolTip": "Model\\AddShareSkillTestData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:54:49.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchSkillCategoryTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SearchSkillCategoryTestData.cs",
+              "RelativeDocumentMoniker": "Model\\SearchSkillCategoryTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SearchSkillCategoryTestData.cs",
+              "RelativeToolTip": "Model\\SearchSkillCategoryTestData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:09:40.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SearchSkillBySubcategoryTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SearchSkillBySubcategoryTestData.cs",
+              "RelativeDocumentMoniker": "Model\\SearchSkillBySubcategoryTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SearchSkillBySubcategoryTestData.cs",
+              "RelativeToolTip": "Model\\SearchSkillBySubcategoryTestData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T23:05:25.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchSkillBySubCategory.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SearchSkillBySubCategory.json",
+              "RelativeDocumentMoniker": "TestData\\SearchSkillBySubCategory.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SearchSkillBySubCategory.json",
+              "RelativeToolTip": "TestData\\SearchSkillBySubCategory.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T22:54:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SkillTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SkillTestData.cs",
+              "RelativeDocumentMoniker": "Model\\SkillTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\SkillTestData.cs",
+              "RelativeToolTip": "Model\\SkillTestData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:20:45.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommonDriver.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Driver\\CommonDriver.cs",
+              "RelativeDocumentMoniker": "Driver\\CommonDriver.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Driver\\CommonDriver.cs",
+              "RelativeToolTip": "Driver\\CommonDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:51:56.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteSkillData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteSkillData.json",
+              "RelativeDocumentMoniker": "TestData\\DeleteSkillData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteSkillData.json",
+              "RelativeToolTip": "TestData\\DeleteSkillData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T04:04:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditLanguageData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\EditLanguageData.json",
+              "RelativeDocumentMoniker": "TestData\\EditLanguageData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\EditLanguageData.json",
+              "RelativeToolTip": "TestData\\EditLanguageData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T22:45:45.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExtentManager.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\ExtentManager.cs",
+              "RelativeDocumentMoniker": "Utilities\\ExtentManager.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\ExtentManager.cs",
+              "RelativeToolTip": "Utilities\\ExtentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:41:05.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LanguageSteps.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\LanguageSteps.cs",
+              "RelativeDocumentMoniker": "Steps\\LanguageSteps.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Steps\\LanguageSteps.cs",
+              "RelativeToolTip": "Steps\\LanguageSteps.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:23:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JsonReader.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\JsonReader.cs",
+              "RelativeDocumentMoniker": "Utilities\\JsonReader.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Utilities\\JsonReader.cs",
+              "RelativeToolTip": "Utilities\\JsonReader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:43:42.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteLanguageData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteLanguageData.json",
+              "RelativeDocumentMoniker": "TestData\\DeleteLanguageData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\DeleteLanguageData.json",
+              "RelativeToolTip": "TestData\\DeleteLanguageData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T02:30:35.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:37:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteLanguageTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteLanguageTestData.cs",
+              "RelativeDocumentMoniker": "Model\\DeleteLanguageTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteLanguageTestData.cs",
+              "RelativeToolTip": "Model\\DeleteLanguageTestData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T02:33:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditLanguageTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditLanguageTestData.cs",
+              "RelativeDocumentMoniker": "Model\\EditLanguageTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditLanguageTestData.cs",
+              "RelativeToolTip": "Model\\EditLanguageTestData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:20:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteSkillTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteSkillTestData.cs",
+              "RelativeDocumentMoniker": "Model\\DeleteSkillTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\DeleteSkillTestData.cs",
+              "RelativeToolTip": "Model\\DeleteSkillTestData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:07:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProfileData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\ProfileData.json",
+              "RelativeDocumentMoniker": "TestData\\ProfileData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\ProfileData.json",
+              "RelativeToolTip": "TestData\\ProfileData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T21:18:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SkillTest.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\SkillTest.cs",
+              "RelativeDocumentMoniker": "Tests\\SkillTest.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Tests\\SkillTest.cs",
+              "RelativeToolTip": "Tests\\SkillTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:39:03.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditProfileTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditProfileTestData.cs",
+              "RelativeDocumentMoniker": "Model\\EditProfileTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\EditProfileTestData.cs",
+              "RelativeToolTip": "Model\\EditProfileTestData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:38:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProfileTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\ProfileTestData.cs",
+              "RelativeDocumentMoniker": "Model\\ProfileTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\ProfileTestData.cs",
+              "RelativeToolTip": "Model\\ProfileTestData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:22:42.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\LoginTestData.cs",
+              "RelativeDocumentMoniker": "Model\\LoginTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\LoginTestData.cs",
+              "RelativeToolTip": "Model\\LoginTestData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T23:52:33.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SkillData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SkillData.json",
+              "RelativeDocumentMoniker": "TestData\\SkillData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\SkillData.json",
+              "RelativeToolTip": "TestData\\SkillData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T01:11:10.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LanguageTestData.cs",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\LanguageTestData.cs",
+              "RelativeDocumentMoniker": "Model\\LanguageTestData.cs",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\Model\\LanguageTestData.cs",
+              "RelativeToolTip": "Model\\LanguageTestData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:46:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LanguageData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\LanguageData.json",
+              "RelativeDocumentMoniker": "TestData\\LanguageData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\LanguageData.json",
+              "RelativeToolTip": "TestData\\LanguageData.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T21:37:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginData.json",
+              "DocumentMoniker": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\LoginData.json",
+              "RelativeDocumentMoniker": "TestData\\LoginData.json",
+              "ToolTip": "C:\\Users\\shalu\\Industry Connect\\Workspace\\MarsAdvanced\\TestData\\LoginData.json",
+              "RelativeToolTip": "TestData\\LoginData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T23:52:39.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

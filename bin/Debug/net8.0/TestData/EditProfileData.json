@@ -1,0 +1,57 @@
+﻿{
+  "Profiles": [
+
+    {
+      "Scenario": "Editing Profile Hours",
+      "ExistingAvailabilityText": "Full Time",
+      "ExistingAvailabilityValue": "1",
+      "NewAvailabilityText": "Part Time",
+      "NewAvailabilityValue": "0",
+      "ExistingHoursText": "Less than 30hours a week",
+      "ExistingHoursValue": "0",
+      "NewHoursText": "Less than 30hours a week",
+      "NewHoursValue": "0",
+      "ExistingEarnTargetText": "Between $500 and $1000 per month",
+      "ExistingEarnTargetValue": "1",
+      "NewEarnTargetText": "Between $500 and $1000 per month",
+      "NewEarnTargetValue": "1",
+      "ExpectedResult": "Success"
+
+    },
+    {
+      "Scenario": "Editing Profile Hours",
+      "ExistingAvailabilityText": "Part Time",
+      "ExistingAvailabilityValue":"0",
+      "NewAvailabilityText": "Part Time",
+      "NewAvailabilityValue":"0",
+      "ExistingHoursText": "Less than 30hours a week",
+      "ExistingHoursValue": "0",
+      "NewHoursText": "As needed",
+      "NewHoursValue": "2",
+      "ExistingEarnTargetText": "Between $500 and $1000 per month",
+      "ExistingEarnTargetValue": "1",
+      "NewEarnTargetText": "Between $500 and $1000 per month",
+      "NewEarnTargetValue": "1",
+      "ExpectedResult": "Success"
+
+    },
+    {
+      "Scenario": "Editing Profile EarnTarget",
+      "ExistingAvailabilityText": "Part Time",
+      "ExistingAvailabilityValue": "0",
+      "NewAvailabilityText": "Part Time",
+      "NewAvailabilityValue": "0",
+      "ExistingHoursText": "As needed",
+      "ExistingHoursValue": "2",
+      "NewHoursText": "As needed",
+      "NewHoursValue": "2",
+      "ExistingEarnTargetText": "More than $1000 per month",
+      "ExistingEarnTargetValue": "2",
+      "NewEarnTargetText": "Between $500 and $1000 per month",
+      "NewEarnTargetValue": "1",
+      "ExpectedResult": "Success"
+    }
+
+
+  ]
+}

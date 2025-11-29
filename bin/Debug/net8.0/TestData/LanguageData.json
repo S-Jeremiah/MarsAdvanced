@@ -1,0 +1,35 @@
+﻿{
+  "Languages": [
+
+    {
+      
+      "Scenario": "Adding Valid Language",
+      "Language": "English",
+      "Level": "Fluent",
+      "ExpectedResult": "Success"
+    },
+    {
+      
+      "Scenario": "Adding Duplicate Language",
+      "Language": "English",
+      "Level": "Fluent",
+      "ExpectedResult": "Information already Exist"
+    },
+    {
+      
+      "Scenario": "Add Blank Language",
+      "Language": "   ",
+      "Level": "Basic",
+      "ExpectedResult": "BlankLanguage"
+    },
+    {
+     
+      "Scenario": "Add Blank Level",
+      "Language": "Tamil",
+      "Level": "   ",
+      "ExpectedResult": "BlankLevel"
+    }
+    
+
+  ]
+}

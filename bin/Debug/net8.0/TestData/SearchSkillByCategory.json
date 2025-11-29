@@ -1,0 +1,18 @@
+﻿{
+  "SearchSkill": [
+
+    {
+      "Category": "Software Development",
+      "Title": "Software Developer"
+    },
+    {
+      "Category": "Data Analysis & Business Intelligence",
+      "Title": "Data Analyst"
+    },
+    {
+      "Category": "Recruitment",
+      "Title": "Recruiter"
+    }
+    
+  ]
+}
